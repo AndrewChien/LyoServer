@@ -1,0 +1,5 @@
+E:\_NetProjects\AspNetServer\TestDynamicPage\bin\TestDynamicPage.dll.config
+E:\_NetProjects\AspNetServer\TestDynamicPage\bin\TestDynamicPage.dll
+E:\_NetProjects\AspNetServer\TestDynamicPage\bin\TestDynamicPage.pdb
+E:\_NetProjects\AspNetServer\TestDynamicPage\obj\Release\TestDynamicPage.dll
+E:\_NetProjects\AspNetServer\TestDynamicPage\obj\Release\TestDynamicPage.pdb

@@ -1,0 +1,9 @@
+F:\Projects\LyoServer\LyoServer\bin\Debug\LyoServer.exe
+F:\Projects\LyoServer\LyoServer\bin\Debug\LyoServer.pdb
+F:\Projects\LyoServer\LyoServer\obj\Debug\LyoServer.exe
+F:\Projects\LyoServer\LyoServer\obj\Debug\LyoServer.pdb
+E:\_NetProjects\LyoServer\LyoServer\bin\Debug\LyoServer.exe
+E:\_NetProjects\LyoServer\LyoServer\bin\Debug\LyoServer.pdb
+E:\_NetProjects\LyoServer\LyoServer\obj\Debug\LyoServer.csprojResolveAssemblyReference.cache
+E:\_NetProjects\LyoServer\LyoServer\obj\Debug\LyoServer.exe
+E:\_NetProjects\LyoServer\LyoServer\obj\Debug\LyoServer.pdb

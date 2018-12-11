@@ -1,0 +1,11 @@
+E:\_NetProjects\AspNetServer\TestDynamicPage\bin\TestDynamicPage.dll.config
+E:\_NetProjects\AspNetServer\TestDynamicPage\bin\TestDynamicPage.dll
+E:\_NetProjects\AspNetServer\TestDynamicPage\bin\TestDynamicPage.pdb
+E:\_NetProjects\AspNetServer\TestDynamicPage\obj\Debug\TestDynamicPage.dll
+E:\_NetProjects\AspNetServer\TestDynamicPage\obj\Debug\TestDynamicPage.pdb
+F:\Projects\LyoServer\TestDynamicPage\bin\TestDynamicPage.dll.config
+F:\Projects\LyoServer\TestDynamicPage\bin\TestDynamicPage.dll
+F:\Projects\LyoServer\TestDynamicPage\bin\TestDynamicPage.pdb
+F:\Projects\LyoServer\TestDynamicPage\obj\Debug\TestDynamicPage.csprojResolveAssemblyReference.cache
+F:\Projects\LyoServer\TestDynamicPage\obj\Debug\TestDynamicPage.dll
+F:\Projects\LyoServer\TestDynamicPage\obj\Debug\TestDynamicPage.pdb
